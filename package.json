@@ -1,0 +1,14 @@
+{
+  "name": "brasov-tours",
+  "version": "1.0.0",
+  "description": "MTB Brasov",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Paula Dogariu",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
